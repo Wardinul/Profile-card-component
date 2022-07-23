@@ -68,13 +68,14 @@ body{
 .avatar-name div{
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-bottom: .5em;
 }
 
-.avatar-name div p{
-    font-size: 18px;
+.avatar-name div h1{
+    font-size: 20px;
     font-weight: 700;
-    margin-right: .7em;
+    margin-right: .6em;
 }
 
 .main-card span{
